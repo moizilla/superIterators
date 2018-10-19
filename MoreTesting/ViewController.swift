@@ -20,7 +20,6 @@ class ViewController: UIViewController {
             print(element)
         }
     }
-
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
