@@ -19,7 +19,6 @@ class ViewController: UIViewController {
         for element in m {
             print(element)
         }
-        // Do any additional setup after loading the view, typically from a nib.
     }
 
     override func didReceiveMemoryWarning() {
